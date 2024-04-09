@@ -1,0 +1,40 @@
+{
+  "name": "simple-logger",
+  "version": "1.0.0",
+  "description": "A lightweight and easy-to-use logging library for Node.js applications",
+  "main": "logger.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "simple-logger",
+    "logging",
+    "nodejs-logging",
+    "log-management",
+    "file-rotation",
+    "log-rotation",
+    "debug",
+    "error-logging",
+    "warn-logs",
+    "info-logging",
+    "debug-logging",
+    "console-log",
+    "log-file",
+    "lightweight-logger",
+    "easy-logging",
+    "log-format",
+    "timestamp-logging",
+    "severity-levels",
+    "nodejs"
+  ],
+  "author": "ineiw <gonti0506@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ineiw/simple-logger.git"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
