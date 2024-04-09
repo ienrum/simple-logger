@@ -1,5 +1,5 @@
 {
-  "name": "simple-logger",
+  "name": "simplest-fancy-logger",
   "version": "1.0.0",
   "description": "A lightweight and easy-to-use logging library for Node.js applications",
   "main": "logger.js",
