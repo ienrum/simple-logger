@@ -1,8 +1,8 @@
 {
   "name": "simplest-fancy-logger",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "A lightweight and easy-to-use logging library for Node.js applications",
-  "main": "logger.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "jest"
@@ -35,6 +35,12 @@
     "url": "https://github.com/ineiw/simple-logger.git"
   },
   "devDependencies": {
+    "chalk": "^5.3.0",
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.24.4",
+    "babel-jest": "^29.7.0",
+    "ts-jest": "^29.1.2"
   }
 }

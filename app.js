@@ -1,4 +1,4 @@
-const SimpleLogger = require(".")
+import SimpleLogger from "./index.js"
 
 const logger = new SimpleLogger({
   logLevel: "debug",

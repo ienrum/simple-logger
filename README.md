@@ -7,7 +7,7 @@ Simple Logger is a lightweight and easy-to-use logging library for Node.js appli
 To install Simple Logger, use npm:
 
 ```
-npm install simple-logger
+npm install simplest-fancy-logger
 ```
 
 ## Usage
@@ -15,9 +15,7 @@ npm install simple-logger
 First, require the `SimpleLogger` class in your Node.js application:
 
 ```javascript
-const SimpleLogger = require("simple-logger") // CommonJS
-
-import SimpleLogger from "simple-logger" // ES6 module
+import SimpleLogger from "simplest-fancy-logger"
 ```
 
 Then, create an instance of the `SimpleLogger` class with the desired configuration options:
